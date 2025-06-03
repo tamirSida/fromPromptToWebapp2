@@ -34,31 +34,6 @@ const slides = [
         `
     },
     {
-        title: "Questions from Last Time?",
-        content: `
-          <div class="center-content">
-            <p><span class="emoji">❓</span> <strong>Let's address your questions!</strong></p>
-            
-            <div class="example-box">
-              <p><strong>Common Questions I Often Get:</strong></p>
-              <ul>
-                <li>"Can I really build complex websites with AI?"</li>
-                <li>"What if the AI-generated code doesn't work?"</li>
-                <li>"How do I know if my website is good?"</li>
-                <li>"Can I make money from websites I build?"</li>
-                <li>"How do I handle website updates and maintenance?"</li>
-              </ul>
-            </div>
-            
-            <p class="highlight">This is your time - ask about anything from last session or general web development questions!</p>
-            
-            <div class="example-box">
-              <p><strong>Remember:</strong> There are no silly questions. Everyone started somewhere, and the web development community is generally very helpful and welcoming.</p>
-            </div>
-          </div>
-        `
-    },
-    {
         title: "Today's Focus: Forms & SEO",
         content: `
           <p>Today we'll cover two essential topics for taking your websites to the next level:</p>
