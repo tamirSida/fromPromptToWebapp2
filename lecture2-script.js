@@ -153,6 +153,7 @@ const slides = [
           <p><strong>❌ Cons:</strong></p>
           <ul>
             <li><span class="emoji">💰</span> <strong>Limited free tier</strong> - 100 submissions/month free</li>
+            <li><span class="emoji">📡</span> <strong>Will Only Work On Netlify</strong> - will not work when testing locally</li>
             <li><span class="emoji">🛠️</span> <strong>Slightly more technical</strong> - Requires HTML knowledge</li>
             <li><span class="emoji">📊</span> <strong>Basic analytics</strong> - Less detailed than Google Forms</li>
           </ul>
